@@ -1,0 +1,12 @@
+.instrucciones:hover{
+	padding-left: 100px;
+	animation-duration: 2s;
+}
+
+.instrucciones{
+	animation-duration: 2s;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
